@@ -5,10 +5,10 @@ This is a simple Go server that serves static files from a `public` directory. T
 ## Installation
 
 1. Clone this repository:
-`git clone https://github.com/NaviRocker/go-web-server.git`
+`git clone https://github.com/NaviRocker/Go-Web-Server.git`
 
 2. Change to the directory of the cloned repository:
-`cd go-web-server`
+`cd Go-Web-Server`
 
 3. Start the server:
 `go run server.go`
