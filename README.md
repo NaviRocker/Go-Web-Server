@@ -17,8 +17,8 @@ This is a simple Go server that serves static files from a `public` directory. T
 4. Navigate to `http://localhost:8080` in your web browser to view the index.html file.
 
 ## Folder Structure
-go-web-server/
-├── server.go
+go-web-server/  
+├── server.go  
 └── public/
     ├── index.html
     ├── style.css
@@ -36,7 +36,7 @@ go-web-server/
 
 ## License
 
-This code is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This code is licensed under the MIT License. See the [LICENSE](https://github.com/NaviRocker/Go-Web-Server/blob/main/LICENSE) file for details.
 
 
 
