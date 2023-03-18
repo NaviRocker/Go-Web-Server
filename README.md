@@ -19,12 +19,12 @@ This is a simple Go server that serves static files from a `public` directory. T
 ## Folder Structure
 go-web-server/  
 ├── server.go  
-└── public/
-    ├── index.html
-    ├── style.css
-    ├── script.js
-    └── img/
-        └── example.jpg
+└── public/  
+    ├── index.html  
+    ├── style.css  
+    ├── script.js  
+    └── img/  
+        └── example.jpg  
 
 - `server.go`: The main Go file that sets up the server.
 - `public/`: A directory that contains all the static files served by the server.
