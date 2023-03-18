@@ -17,15 +17,6 @@ This is a simple Go server that serves static files from a `public` directory. T
 4. Navigate to `http://localhost:8080` in your web browser to view the index.html file.
 
 ## Folder Structure
-go-web-server/  
-├── server.go  
-└── public/  
-    ├── index.html  
-    ├── style.css  
-    ├── script.js  
-    └── img/  
-        └── example.jpg
-
 - `server.go`: The main Go file that sets up the server.
 - `public/`: A directory that contains all the static files served by the server.
 - `public/index.html`: The main HTML file that is served as the homepage.
